@@ -1,5 +1,5 @@
 # saratoga-rounded-corners
-CSS add-on to create rounded corners in Saratoga weather templates  
+CSS add-on to create rounded corners in Saratoga weather templates (http://saratoga-weather.org/template/)  
 By: Steve Jenkins
 
 Personal site: http://www.stevejenkins.com/  
