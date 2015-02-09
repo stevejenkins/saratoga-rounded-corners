@@ -11,12 +11,12 @@ Weather site: http://weather.lakewebster.com/
 
 2) Edit top.php and find the following lines:
 
-<link rel="stylesheet" type="text/css" href="<?php echo $SITE['CSSscreen']; ?>" media="screen" title="screen" />
-<link rel="stylesheet" type="text/css" href="<?php echo $SITE['CSSprint']; ?>" media="print" />
+    <link rel="stylesheet" type="text/css" href="<?php echo $SITE['CSSscreen']; ?>" media="screen" title="screen" />
+    <link rel="stylesheet" type="text/css" href="<?php echo $SITE['CSSprint']; ?>" media="print" />
 
 Add this line immediately BELOW those two lines:
 
-<link rel="stylesheet" type="text/css" href="/weather-rounded-corners.css" media="screen" title="screen" />
+    <link rel="stylesheet" type="text/css" href="/weather-rounded-corners.css" media="screen" title="screen" />
 
 And... VOILA! You should now have rounded corners for the default Saratoga Templates!
 
