@@ -2,8 +2,8 @@
 CSS add-on to create rounded corners in Saratoga weather templates (http://saratoga-weather.org/template/)  
 By: Steve Jenkins
 
-Personal site: http://www.stevejenkins.com/  
-Weather site: http://weather.lakewebster.com/
+My personal site: http://www.stevejenkins.com/  
+My weather site: http://weather.lakewebster.com/
 
 **INSTRUCTIONS**
 
