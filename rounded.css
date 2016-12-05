@@ -2,7 +2,7 @@
  * Steve Jenkins' Rounded Corners for Saratoga WX Templates *
  * https://github.com/stevejenkins/saratoga-rounded-corners *
  * http://weather.lakewebster.com/                          *
- * Version 1.3 (Dec 5, 2016)                                *
+ * Version 1.4 (Dec 5, 2016)                                *
  ***********************************************************/
 
 /* Comment out any of the CSS formatting you don't want, /*
@@ -29,3 +29,6 @@ table {border-radius: 5px;}
 
 /* Homepage Icon Corners */
 .ajaxDashboard img {border-radius:5px;}
+
+/* New class for Webcam rounded corners */
+.webcam {border-radius:3px;}
