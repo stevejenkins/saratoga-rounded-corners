@@ -2,10 +2,18 @@
  * Steve Jenkins' Rounded Corners for Saratoga WX Templates *
  * https://github.com/stevejenkins/saratoga-rounded-corners *
  * http://weather.lakewebster.com/                          *
- * Version 1.2 (Feb 9, 2015)                                *
+ * Version 1.3 (Dec 5, 2016)                                *
  ***********************************************************/
 
-/* Comment out any of the CSS formatting you don't want /*
+/* Comment out any of the CSS formatting you don't want, /*
+/* or increase/decrease the amount of corner rounding by /*
+/* adjusting the values below /*
+
+/* Sitewide Images */
+img {border-radius: 4px;}
+
+/* Sitewide Table Borders */
+table {border-radius: 5px;}
 
 /* Sitewide Header Corners */
 #header {border-radius: 11px;}
